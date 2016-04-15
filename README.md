@@ -1,2 +1,10 @@
-# scaffolder
-Generic data driven repository scaffolder for Github
+```
+                __  __      _     _           
+               / _|/ _|    | |   | |          
+ ___  ___ __ _| |_| |_ ___ | | __| | ___ _ __
+/ __|/ __/ _` |  _|  _/ _ \| |/ _` |/ _ \ '__|
+\__ \ (_| (_| | | | || (_) | | (_| |  __/ |   
+|___/\___\__,_|_| |_| \___/|_|\__,_|\___|_|   
+Ease the pain, ..                              
+```
+> Generic data driven repository scaffolder for Github
